@@ -17,7 +17,7 @@ const Navbar = () => {
   return (
     <header id="header">
       <a href="#" class="logo">
-        Take care 💊
+        Take a Pill 💊
       </a>
       <div class="mean-toggle"></div>
       <nav>
